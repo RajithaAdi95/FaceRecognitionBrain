@@ -1,8 +1,8 @@
 {
   "name": "facerecognitionbrain",
-  "homepage": "https://rajithaadi95.github.io/FaceRecognitionBrain/",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://RajithaAdi95.github.io/FaceRecognitionBrain",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
